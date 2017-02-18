@@ -90,6 +90,5 @@ void displayResult(char choice, double scores[]) {
 
 	The avarage is 82.6
 	Press any key to continue . . .
-
 */
 // ========================================================================
