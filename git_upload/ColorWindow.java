@@ -1,4 +1,0 @@
- <video tabindex="-1" class="video-stream html5-main-video" style="width: 688px; height: 292px; left: 0px; top: 73.1827px;" src="https://r1---sn-a5meknek.c.docs.google.com/videoplayback?id=e7013f5fa7a027da&amp;itag=59&amp;source=webdrive&amp;requiressl=yes&amp;ttl=transient&amp;mm=30&amp;mn=sn-a5meknek&amp;ms=nxu&amp;mv=m&amp;nh=IgpwZjAxLmxheDI4KhIyMDAxOjQ4NjA6MToxOjoxNDE&amp;pl=32&amp;mime=video/mp4&amp;lmt=1483076784241170&amp;mt=1486247489&amp;ip=2605:e000:a44e:f700:8df6:b967:84e1:7b1a&amp;ipbits=0&amp;expire=1486261936&amp;cp=QVJNWENfUFlRR1hNOnJZY3YydTFMRVEy&amp;sparams=ip,ipbits,expire,id,itag,source,requiressl,ttl,mm,mn,ms,mv,nh,pl,mime,lmt,cp&amp;signature=8C15488546AA19FA12E02ABD69923261CE8A6FBA.04AEC67E2BF193E9398AF2DEEB395DF1219195BC&amp;key=ck2&amp;app=explorer&amp;driveid=0B4yikynYQeV8NDBuamxRbTc0bGM&amp;cpn=XAYXIyh_ItRJPA-v&amp;c=WEB&amp;cver=1.20170131"></video>
-
-
- "https://r1---sn-a5meknek.c.docs.google.com/videoplayback?id=e7013f5fa7a027da&amp
