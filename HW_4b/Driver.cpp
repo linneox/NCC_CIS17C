@@ -27,7 +27,7 @@ int main()
 	{
 		getline(std::cin, name); 
 
-		if (name == "*")
+		if (name[0] == "*")
 			break;
 		insertNode(head, name);
 	}
