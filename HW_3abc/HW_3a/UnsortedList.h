@@ -1,5 +1,5 @@
-#ifndef UnsortedList_h
-#define UnsortedList_h
+#ifndef UNSORTEDLIST_H
+#define UNSORTEDLIST_H
 
 #include <iostream>
 
@@ -25,4 +25,4 @@ public:
     
 };
 
-#endif /* UnsortedList_h */
+#endif /* UNSORTEDLIST_H */
