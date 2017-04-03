@@ -1,9 +1,9 @@
-#ifndef UNSORTEDLIST_H
-#define UNSORTEDLIST_H
+#ifndef UnsortedList_h
+#define UnsortedList_h
 
 #include <iostream>
 
-const int MAX_SIZE = 10;
+const int MAX_SIZE = 3;
 
 class UnsortedList
 {
@@ -25,4 +25,4 @@ public:
     
 };
 
-#endif /* UNSORTEDLIST_H */
+#endif /* UnsortedList_h */
