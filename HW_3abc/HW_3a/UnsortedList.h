@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-const int MAX_SIZE = 3;
+const int MAX_SIZE = 10;
 
 class UnsortedList
 {
